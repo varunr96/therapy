@@ -67,7 +67,7 @@ If the user is ready, the tool provides consultation questions and next steps.
 ## 📦 How to Use
 
 1. Open [ChatGPT](https://chat.openai.com)  
-2. Paste in the contents of `system_prompt.txt` (or copy from below)  
+2. Paste in the contents of `therapy-assessment-system-prompt.txt` 
 3. Start your session by selecting an option or describing your needs
 
 ---
@@ -82,11 +82,4 @@ This guide was created by Varun Rana — a content creator exploring mental heal
 - YouTube: [@the_varunrana](https://youtube.com/@the_varunrana)  
 - LinkedIn: [varunr96](https://linkedin.com/in/varunr96)
 
-If this helped you, consider sharing it or subscribing.
 
----
-
-## 📝 License
-
-This system prompt is available under the [MIT License](LICENSE).
-Please credit the creator if adapting or modifying.
